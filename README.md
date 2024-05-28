@@ -144,8 +144,7 @@
 ### Получение списка стран
 `post` `/api/showCountries`
 ```python
-{'user_id':str
- 'role':str}
+ {'role':str}
 ```
 `return`
 ```python 
